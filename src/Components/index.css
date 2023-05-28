@@ -1,0 +1,28 @@
+.weather-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .weather-container h2 {
+    color: #333;
+  }
+  
+  .weather-container form {
+    margin-top: 10px;
+  }
+  
+  .weather-container input[type="text"] {
+    padding: 5px;
+  }
+  
+  .weather-container button {
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .weather-output {
+    margin-top: 20px;
+  }
